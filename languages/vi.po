@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-19 10:35+0700\n"
+"PO-Revision-Date: 2019-08-19 10:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: index.php\n"
+
+#: index.php:32 index.php:33 index.php:57
+msgid "RE Phone CTA"
+msgstr "RE Phone CTA"
+
+#: index.php:34
+msgid "Item Archives"
+msgstr "Mục lưu trữ"
+
+#: index.php:35
+msgid "Parent Item:"
+msgstr ""
+
+#: index.php:36
+msgid "All Items"
+msgstr "Tất cả các mục"
+
+#: index.php:37
+msgid "Add New Item"
+msgstr "Thêm mới"
+
+#: index.php:38
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: index.php:39
+msgid "New Item"
+msgstr "Thêm mới"
+
+#: index.php:40
+msgid "Edit Item"
+msgstr "Chỉnh sửa mục"
+
+#: index.php:41
+msgid "Update Item"
+msgstr "Cập nhật"
+
+#: index.php:42
+msgid "View Item"
+msgstr "Xem"
+
+#: index.php:43
+msgid "Search Item"
+msgstr "Tìm kiếm"
+
+#: index.php:44
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: index.php:45
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong thùng rác"
+
+#: index.php:46
+msgid "Featured Image"
+msgstr "Tải ảnh lên"
+
+#: index.php:47
+msgid "Set featured image"
+msgstr "Chọn hình ảnh"
+
+#: index.php:48
+msgid "Remove featured image"
+msgstr "Xoá ảnh đại diện"
+
+#: index.php:49
+msgid "Use as featured image"
+msgstr "Sử dụng làm ảnh đại diện"
+
+#: index.php:50
+msgid "Insert into item"
+msgstr "Chèn"
+
+#: index.php:51
+msgid "Uploaded to this item"
+msgstr "Tải lên"
+
+#: index.php:52
+msgid "Items list"
+msgstr "Danh sách"
+
+#: index.php:53
+msgid "Items list navigation"
+msgstr ""
+
+#: index.php:54
+msgid "Filter items list"
+msgstr "Danh sách lọc"
+
+#: index.php:108
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: index.php:109 index.php:148
+msgid "Shortcode"
+msgstr "Mã"
+
+#: index.php:110
+msgid "Date"
+msgstr "Ngày"
+
+#: index.php:140
+msgid "CTA setting"
+msgstr "CTA Thiết lập"
+
+#: index.php:184
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: index.php:188
+msgid "Image"
+msgstr "Ảnh/Icon"
+
+#: index.php:195
+msgid "Upload Image"
+msgstr "Tải ảnh lên"
+
+#: index.php:199
+msgid "Color"
+msgstr "Màu nền"
+
+#: index.php:203
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: index.php:207
+msgid "Font family"
+msgstr "Font chữ"
+
+#: index.php:209
+msgid "Select a font"
+msgstr "Chọn font"
+
+#: index.php:213
+msgid "Position"
+msgstr "Vị trí"
+
+#: index.php:215
+msgid "Top Left"
+msgstr "Trên | Trái"
+
+#: index.php:216
+msgid "Top Center"
+msgstr "Trên | Giữa"
+
+#: index.php:217
+msgid "Top Right"
+msgstr "Trên | Phải"
+
+#: index.php:218
+msgid "Center Left"
+msgstr "Giữa | Trái"
+
+#: index.php:220
+msgid "Center Right"
+msgstr "Giữa | Phải"
+
+#: index.php:221
+msgid "Bottom Left"
+msgstr "Dưới | Trái"
+
+#: index.php:222
+msgid "Bottom Center"
+msgstr "Dưới | Giữa"
+
+#: index.php:223
+msgid "Bottom Right"
+msgstr "Dưới | Phải"
+
+#: index.php:233
+msgid "Copy shortcode to view"
+msgstr "Sao chép mã  để hiển thị"
+
+#: index.php:236
+msgid "Copy"
+msgstr "Sao chép"
+
+#: index.php:239
+msgid "Publish to view shortcode"
+msgstr "Xuất bản để xem shortcode"
+
+#: index.php:301
+msgid "Select image"
+msgstr "Chọn hình ảnh"
+
+#: index.php:302
+msgid "Select"
+msgstr "Chọn hình ảnh"
+
+#~ msgid "Map Data"
+#~ msgstr "Dữ liệu bản đồ"
+
+#~ msgid "Add Point"
+#~ msgstr "Thêm điểm"
+
+#~ msgid "Drag the Point to move, Click on it to add/edit information"
+#~ msgstr "Bấm giữ Điểm để di chuyển. Bấm vào Điểm để thay đổi thông tin"
+
+#~ msgid "Content"
+#~ msgstr "Nội dung"
+
+#~ msgid "Room Title"
+#~ msgstr "Tên phòng"
+
+#~ msgid "Room Summary"
+#~ msgstr "Tóm tắt"
+
+#~ msgid "Total size: 35m2. Available for 2 people..."
+#~ msgstr "Diện tích: 35m2. Có sẵn cho 2 người..."
+
+#~ msgid "Content Type"
+#~ msgstr "Nội dung"
+
+#~ msgid "Link"
+#~ msgstr "Đường dẫn"
+
+#~ msgid "Delete"
+#~ msgstr "Xóa"
+
+#~ msgid "Save"
+#~ msgstr "Lưu"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"

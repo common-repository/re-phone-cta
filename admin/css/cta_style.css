@@ -1,0 +1,106 @@
+.cta_row {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 10px 0px 16px;
+    display: flex;
+}
+
+.cta_row label {
+    width: 120px;
+}
+
+.cta_row button,
+.cta_row input[type=button] {
+    margin: 0px!important
+}
+
+.cta_row .option_position {
+    margin: 0px;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    max-width: 720px;
+}
+
+.cta_row .option_position label {
+    padding: 16px;
+    width: auto;
+    border: solid 0.5px #b5b5b5;
+}
+
+.cta_row select,
+.cta_row input[type="tel"] {
+    width: 18%;
+    min-width: 200px;
+}
+
+.cta_row input.invalid {
+    border: solid 1px red;
+}
+
+.cta_row #image_upload {
+    position: relative;
+}
+
+.cta_row #image_upload img {
+    border: solid 1px #d8d8d8;
+}
+
+.cta_row #image_upload #remove-image {
+    font-size: 18px;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    line-height: 25px;
+    font-weight: 800;
+    width: 25px;
+    height: 25px;
+    background-color: #171717c4;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: 0.6s;
+}
+
+.cta_row #image_upload #remove-image:hover {
+    opacity: 1;
+}
+
+.cta_row #image_upload input {
+    display: block;
+    margin-top: 8px;
+}
+
+.cta_row .font-select>span {
+    height: 30px !important;
+    line-height: 24px !important;
+}
+
+.cta_row .font-select .fs-drop {
+    top: 30px !important;
+}
+
+.shortcodemap {
+    display: flex;
+}
+
+.shortcodemap input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: #eee;
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0px 0px;
+}
+
+.shortcodemap .button {
+    font-size: 14px;
+    line-height: 8px;
+    padding: 10px;
+    height: 41px;
+    margin: 6px 0px 0px;
+}
